@@ -1,6 +1,14 @@
 
 ### Hey there, I'm Riya Shewale 👋
 
+
+
+I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an Integrated B.Tech + M.Tech in Information Technology.  
+
+💻 I love solving algorithmic challenges and building full-stack web applications.  
+🌱 Currently exploring **backend development**, **system design**, and **cloud fundamentals**.  
+🏆 Regular participant in coding contests — passionate about clean code and problem solving.
+
 <a href="https://www.linkedin.com/in/riya-shewale/">
   <img align="left" alt="LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
@@ -15,12 +23,6 @@
 </a>
 
 <br><br>
-
-I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an Integrated B.Tech + M.Tech in Information Technology.  
-
-💻 I love solving algorithmic challenges and building full-stack web applications.  
-🌱 Currently exploring **backend development**, **system design**, and **cloud fundamentals**.  
-🏆 Regular participant in coding contests — passionate about clean code and problem solving.
 
 ---
 
