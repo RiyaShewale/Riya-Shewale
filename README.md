@@ -1,4 +1,4 @@
-# Riya-Shewale
+
 ### Hey there, I'm Riya Shewale 👋
 
 <a href="https://www.linkedin.com/in/riya-shewale/">
