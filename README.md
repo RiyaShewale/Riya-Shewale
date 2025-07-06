@@ -9,7 +9,7 @@ I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an
 🌱 Currently strengthning my problem solving skills.  
 🏆 Regular participant in coding contests — passionate about out-of-the-box solutions and problem solving.
 
-<a href="https://www.linkedin.com/in/riya-shewale/">
+<a href="[https://www.linkedin.com/in/riya-shewale/](https://www.linkedin.com/in/riya-shewale-049733261/)">
   <img align="left" alt="LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
 
