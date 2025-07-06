@@ -12,15 +12,7 @@ I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an
 <a href="https://www.linkedin.com/in/riya-shewale/">
   <img align="left" alt="LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
 </a>
-<a href="https://leetcode.com/your_leetcode_username/">
-  <img align="left" alt="LeetCode" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
-</a>
-<a href="https://www.codechef.com/users/your_codechef_username">
-  <img align="left" alt="CodeChef" width="28px" src="https://cdn.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />
-</a>
-<a href="https://codeforces.com/profile/your_codeforces_username">
-  <img align="left" alt="Codeforces" width="28px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3030136.png" />
-</a>
+
 
 <br><br>
 
