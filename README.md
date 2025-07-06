@@ -48,4 +48,4 @@ I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an
 ## 📫 Reach Me At
 
 - [LinkedIn](https://www.linkedin.com/in/riya-shewale/)
-- 📧 Email: riyasatishshewale@gmail.com
+- [Email] (riyasatishshewale@gmail.com)
