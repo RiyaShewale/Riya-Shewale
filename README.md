@@ -1,6 +1,6 @@
 ### Hey there, I'm Riya Shewale 👋
 
-I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an Integrated B.Tech + M.Tech in Information Technology.  
+I'm **Riya Shewale**, a pre-final year student at **ABV-IIITM Gwalior**, pursuing an Integrated B.Tech + M.Tech in Information Technology.  
 
 💻 I love solving algorithmic challenges and building applications to solve real-world problems.  
 🌱 Currently strengthening my problem-solving skills.  
@@ -47,5 +47,7 @@ I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an
 
 ## 📫 Reach Me At
 
+
+- [Email me](mailto:riyasatishshewale@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/riya-shewale/)
-- [Email] (riyasatishshewale@gmail.com)
+
