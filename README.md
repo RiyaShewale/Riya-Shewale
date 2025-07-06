@@ -5,9 +5,9 @@
 
 I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an Integrated B.Tech + M.Tech in Information Technology.  
 
-💻 I love solving algorithmic challenges and building full-stack web applications.  
-🌱 Currently exploring **backend development**, **system design**, and **cloud fundamentals**.  
-🏆 Regular participant in coding contests — passionate about clean code and problem solving.
+💻 I love solving algorithmic challenges and building applications to solve real-world problems.  
+🌱 Currently strengthning my problem solving skills.  
+🏆 Regular participant in coding contests — passionate about out-of-the-box solutions and problem solving.
 
 <a href="https://www.linkedin.com/in/riya-shewale/">
   <img align="left" alt="LinkedIn" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />
@@ -57,16 +57,7 @@ I'm **Riya Shewale**, a final-year student at **ABV-IIITM Gwalior**, pursuing an
 
 ---
 
-## 👩‍💻 A Developer Who Loves to Build and Compete
-
-- 🔐 Built a full-stack encrypted cheque deposit system
-- 📺 Created a video-streaming platform frontend
-- 🧠 Rated 1521 on LeetCode | Max Rating 1588 on CodeChef
-- 🏅 Achieved global rank under 700 in CodeChef contests (3 times)
-- 🧘‍♀️ Distinction in all 6 yoga exams | 🥇 Medaled in college sports
-
----
 
 📫 **Reach me at**  
-[LinkedIn](https://www.linkedin.com/in/riya-shewale/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/riya-shewale/) | [Email](riya.satish.shewale@gmail.com)
 
